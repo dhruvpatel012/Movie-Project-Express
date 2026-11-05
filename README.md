@@ -1,4 +1,4 @@
-# Movie Management System (MovieProjectExpress)
+# Movie Management System
 
 A RESTful backend API for managing a movie database with poster image uploads. Built with **Node.js**, **Express.js**, **MongoDB (Mongoose)**, and **Multer** following the **MVC (Model-View-Controller)** architectural pattern.
 
